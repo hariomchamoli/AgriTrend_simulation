@@ -73,9 +73,13 @@ This repository contains a **proof-of-concept prototype** with the following sco
 
 ---
 
-## Team
+## Team Members
 
-This project is developed as part of a 4-member team.  
+This project is developed as part of a 4-member team.
+- Abhinav
+-
+-
+-
 Roles will be expanded and formalized in the system design round.
 
 ---
