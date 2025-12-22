@@ -1,4 +1,4 @@
-`AgriTrend_simulation.py`
+# `AgriTrend_simulation.py`
 
 ### Crop Yield Trend Analysis Simulator (Prototype)
 The objective of this prototype is to design and demonstrate a structured, explainable framework for analyzing agricultural yield trends and exploring future outcomes using statistically grounded, transparent methods.
